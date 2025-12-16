@@ -19,7 +19,7 @@ L'agent n'utilise pas un simple DQN standard, mais une architecture **Dueling DA
 Le projet nécessite **Python 3.8+**.
 
 ### 1. Cloner ou télécharger le projet
-Placez les fichiers `train.ipynb` (ou `.py`) et `play.py` dans un dossier.
+Placez les fichiers `train.DonkeyKong_DarQN.ipynb` et `play.py` dans un dossier.
 
 ### 2. Installer les dépendances
 Installez les bibliothèques nécessaires, y compris Gymnasium et l'émulateur Atari (ALE) :
